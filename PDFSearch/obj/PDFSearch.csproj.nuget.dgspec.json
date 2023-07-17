@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hanna.milnovich\\OneDrive - Nuvei Technologies\\Desktop\\PDFSearch\\PDFSearch\\PDFSearch.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hanna.milnovich\\OneDrive - Nuvei Technologies\\Desktop\\PDFSearch\\PDFSearch\\PDFSearch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hanna.milnovich\\OneDrive - Nuvei Technologies\\Desktop\\PDFSearch\\PDFSearch\\PDFSearch.csproj",
+        "projectName": "PDFSearch",
+        "projectPath": "C:\\Users\\hanna.milnovich\\OneDrive - Nuvei Technologies\\Desktop\\PDFSearch\\PDFSearch\\PDFSearch.csproj",
+        "packagesPath": "C:\\Users\\hanna.milnovich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hanna.milnovich\\OneDrive - Nuvei Technologies\\Desktop\\PDFSearch\\PDFSearch\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hanna.milnovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://smart2pay.pkgs.visualstudio.com/_packaging/Smart2PayRepository/nuget/v3/index.json": {},
+          "https://srv-bsf-jfedge.gw-4u.com/artifactory/api/nuget/v3/nvi-nuget-vrt": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "GrapeCity.Documents.Pdf": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            },
+            "PdfPig": {
+              "target": "Package",
+              "version": "[0.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

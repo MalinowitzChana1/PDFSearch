@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBL6ogIj6GW+xfhGlBX5zi2du4Np+uJxpgZX82Ka4Tok3NyAnCIq4Ve/VpexAZxtmHggo4cvl/5Z3pALmI3BEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanna.milnovich\\OneDrive - Nuvei Technologies\\Desktop\\PDFSearch\\PDFSearch\\PDFSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\grapecity.documents.imaging\\6.1.5\\grapecity.documents.imaging.6.1.5.nupkg.sha512",
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\grapecity.documents.pdf\\6.1.5\\grapecity.documents.pdf.6.1.5.nupkg.sha512",
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\pdfpig\\0.1.8\\pdfpig.0.1.8.nupkg.sha512",
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\portable.bouncycastle\\1.8.2\\portable.bouncycastle.1.8.2.nupkg.sha512",
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\hanna.milnovich\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
