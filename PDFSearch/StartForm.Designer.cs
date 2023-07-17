@@ -34,6 +34,7 @@
             this.txtFoundWords = new System.Windows.Forms.TextBox();
             this.lblWordFileName = new System.Windows.Forms.Label();
             this.btnSearch = new System.Windows.Forms.Button();
+            this.lblPDFName = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // ofdUploadFile
@@ -88,11 +89,19 @@
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
+            // lblPDFName
+            // 
+            this.lblPDFName.Location = new System.Drawing.Point(370, 141);
+            this.lblPDFName.Name = "lblPDFName";
+            this.lblPDFName.Size = new System.Drawing.Size(147, 53);
+            this.lblPDFName.TabIndex = 5;
+            // 
             // StartForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1078, 515);
+            this.Controls.Add(this.lblPDFName);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.lblWordFileName);
             this.Controls.Add(this.txtFoundWords);
@@ -114,5 +123,6 @@
         private TextBox txtFoundWords;
         private Label lblWordFileName;
         private Button btnSearch;
+        private Label lblPDFName;
     }
 }

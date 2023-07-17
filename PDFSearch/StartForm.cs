@@ -43,7 +43,8 @@ namespace PDFSearch
             }
 
             SearchFile.SaveFileName(fileName);
-            
+            var fileNameWithoutPath = System.IO.Path.GetFileName(ofdUploadFile.FileName);
+            lblPDFName.Text = fileNameWithoutPath;
         }
 
         public void OutputFoundWords(List<FoundWord> foundWords)
